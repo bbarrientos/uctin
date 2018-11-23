@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "164775895417",
+    "firebase_url": "https://uctin-92494.firebaseio.com",
+    "project_id": "uctin-92494",
+    "storage_bucket": "uctin-92494.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164775895417:android:7b0d25723fa964f5",
+        "android_client_info": {
+          "package_name": "com.example.uctin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164775895417-s8edd2lc5d8282o4a4vdgvub47ho91jq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.uctin",
+            "certificate_hash": "fe7b8cd5f87a5fc572ffa453b1dc92c76954e499"
+          }
+        },
+        {
+          "client_id": "164775895417-cafev0manikrk0p6lg05blcjqt9f5dg5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAv8E3aOpSAc9S3WPdp_4ZgAW3ysoDxuA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "164775895417-cafev0manikrk0p6lg05blcjqt9f5dg5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
